@@ -19,7 +19,7 @@ let songs = [
     {songName: "Phir Mohabbat", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "Dil Ibaadat", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     {songName: "Saans", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Naam Na Jana Pakhi-Female Version", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Naam Na Jana Pakhi-Duet Version", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
