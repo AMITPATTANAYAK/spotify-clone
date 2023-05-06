@@ -45,7 +45,7 @@ nav ul li{
    display: flex;
    margin: 23px auto;
    width: 70%;
-   border-radius: 12px;
+   border-radius: 10px;
    padding: 24px;
    background-image: url('bg.jpg');
 }
