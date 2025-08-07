@@ -2,5 +2,6 @@
 PREVIEW
 
 
-https://github.com/AMITPATTANAYAK/spotify-clone/assets/122168162/01b47a53-238f-4678-8c74-1272ca8284b2
+<img width="1896" height="987" alt="image" src="https://github.com/user-attachments/assets/8f073d55-bd5c-4554-944d-30b2dce82936" />
+
 
